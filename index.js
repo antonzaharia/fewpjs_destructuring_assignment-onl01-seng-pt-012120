@@ -30,7 +30,7 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
-const {nodejs: k_name, color: k_color } = k_muppet;
+const {name: k_name, color: k_color } = k_muppet;
 
 
 // Strings
