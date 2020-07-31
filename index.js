@@ -33,8 +33,7 @@ const k_muppet = {
 const {
   name: k_name,
   color: k_color,
-  song: k_album.the_muppet_movie.song_1,
-  job: k_job
+  song: k_album.the_muppet_movie.song_1
 } = k_muppet;
 
 
