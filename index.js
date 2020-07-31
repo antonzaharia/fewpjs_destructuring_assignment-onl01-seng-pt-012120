@@ -31,7 +31,7 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 const { name, color, ,job, partner } = k_muppet;
-const { album } = k_muppet.k_album;
+
 
 
 // Strings
